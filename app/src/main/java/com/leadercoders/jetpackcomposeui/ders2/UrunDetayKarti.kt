@@ -41,7 +41,7 @@ fun UrunDetayKarti() {
                 .padding(24.dp)
 
 
-            ) {
+        ) {
             Text("\uD83D\uDCF8 Ürün Görseli", fontSize = 20.sp)
         }
 
@@ -60,19 +60,16 @@ fun UrunDetayKarti() {
 
         //Sahte Buton
         Text(
-            "Sepete Ekle"
-            , modifier = Modifier.background(color = Color(0xFF2563EB)
-                , shape = RoundedCornerShape(8.dp))
-                .padding(16.dp)
-            , color = Color.White
+            "Sepete Ekle", modifier = Modifier
+                .background(
+                    color = Color(0xFF2563EB), shape = RoundedCornerShape(8.dp)
+                )
+                .padding(16.dp), color = Color.White
 
         )
 
 
-
     }
-
-
 
 
 }
