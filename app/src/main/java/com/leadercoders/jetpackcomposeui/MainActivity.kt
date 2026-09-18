@@ -18,6 +18,8 @@ import com.leadercoders.jetpackcomposeui.ders3.D333_ButonCesitleri
 import com.leadercoders.jetpackcomposeui.ders4.BizeUlasinFormu
 import com.leadercoders.jetpackcomposeui.ders4.D344_KullanicidanVeriAlma
 import com.leadercoders.jetpackcomposeui.ders4.D345_GirisYapEkrani
+import com.leadercoders.jetpackcomposeui.ders4.KullaniciKayitEkrani
+import com.leadercoders.jetpackcomposeui.ders4.SifreSifirlamaEkrani
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -44,7 +46,11 @@ class MainActivity : ComponentActivity() {
                         //DERS - 4
                         //D344_KullanicidanVeriAlma()
                         //D345_GirisYapEkrani()
-                        BizeUlasinFormu()
+                        //BizeUlasinFormu()
+
+                        //PROJE
+                        //KullaniciKayitEkrani()
+                        SifreSifirlamaEkrani()
 
 
 

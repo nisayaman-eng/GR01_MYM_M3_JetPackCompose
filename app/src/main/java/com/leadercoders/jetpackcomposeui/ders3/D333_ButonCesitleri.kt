@@ -25,7 +25,7 @@ fun D333_ButonCesitleri() {
             Text("Sepete Ekle")
         }
 
-        //Eğer öğeleri yatay olaraka yaırmak istersek
+        //Eğer öğeleri yatay olaraka yatırmak istersek
         HorizontalDivider(
             thickness = 1.dp,
             color = Color.Blue,
