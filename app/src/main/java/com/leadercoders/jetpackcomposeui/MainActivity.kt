@@ -20,6 +20,9 @@ import com.leadercoders.jetpackcomposeui.ders4.D344_KullanicidanVeriAlma
 import com.leadercoders.jetpackcomposeui.ders4.D345_GirisYapEkrani
 import com.leadercoders.jetpackcomposeui.ders4.KullaniciKayitEkrani
 import com.leadercoders.jetpackcomposeui.ders4.SifreSifirlamaEkrani
+import com.leadercoders.jetpackcomposeui.ders6.D362_ResimEkleme
+import com.leadercoders.jetpackcomposeui.ders6.D363_IconEkleme
+import com.leadercoders.jetpackcomposeui.ders6.D364_KardEkleme
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -50,9 +53,12 @@ class MainActivity : ComponentActivity() {
 
                         //PROJE
                         //KullaniciKayitEkrani()
-                        SifreSifirlamaEkrani()
+                        //SifreSifirlamaEkrani()
 
-
+                        //DERS - 6
+                        //D362_ResimEkleme()
+                        //D363_IconEkleme()
+                        D364_KardEkleme()
 
 
 
