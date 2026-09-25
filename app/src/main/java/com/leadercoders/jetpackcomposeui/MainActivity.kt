@@ -24,6 +24,10 @@ import com.leadercoders.jetpackcomposeui.ders6.D362_ResimEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D363_IconEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D364_KardEkleme
 import com.leadercoders.jetpackcomposeui.ders6.MusteriDeneyimiYonetimi
+import com.leadercoders.jetpackcomposeui.ders8.D382_LazyColumn
+import com.leadercoders.jetpackcomposeui.ders8.D383_LazyRow0
+import com.leadercoders.jetpackcomposeui.ders8.D384_DinamikListeUretimi
+import com.leadercoders.jetpackcomposeui.ders8.D385_TelefonRehberiUygulamasi
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -60,7 +64,20 @@ class MainActivity : ComponentActivity() {
                         //D362_ResimEkleme()
                         //D363_IconEkleme()
                         //D364_KardEkleme()
-                        MusteriDeneyimiYonetimi()
+                        //MusteriDeneyimiYonetimi()
+
+                        //DERS - 8
+                        //D382_LazyColumn()
+                        //D383_LazyRow0()
+                        //D384_DinamikListeUretimi()
+                        D385_TelefonRehberiUygulamasi()
+
+
+
+
+
+
+
 
 
                     }
