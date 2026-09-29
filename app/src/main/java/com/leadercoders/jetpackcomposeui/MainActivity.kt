@@ -28,6 +28,10 @@ import com.leadercoders.jetpackcomposeui.ders8.D382_LazyColumn
 import com.leadercoders.jetpackcomposeui.ders8.D383_LazyRow0
 import com.leadercoders.jetpackcomposeui.ders8.D384_DinamikListeUretimi
 import com.leadercoders.jetpackcomposeui.ders8.D385_TelefonRehberiUygulamasi
+import com.leadercoders.jetpackcomposeui.ders8.KartListesi
+import com.leadercoders.jetpackcomposeui.ders9.D3393_AlertDialog
+import com.leadercoders.jetpackcomposeui.ders9.D392_Scaffold
+import com.leadercoders.jetpackcomposeui.ders9.D394_DropdownMenu
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -42,12 +46,12 @@ class MainActivity : ComponentActivity() {
 
                         //DERS-1
                         //SelamlamaEkrani()
-      //                  DERS-2
-              //          D322_TemelDizilimler()
+                        //                  DERS-2
+                        //          D322_TemelDizilimler()
                         //D326_ProfilKarti()
                         //UrunDetayKarti()
 
-     //                   Ders - 3
+                        //                   Ders - 3
                         //D332_TextBileseni()
                         //D333_ButonCesitleri()
 
@@ -70,15 +74,13 @@ class MainActivity : ComponentActivity() {
                         //D382_LazyColumn()
                         //D383_LazyRow0()
                         //D384_DinamikListeUretimi()
-                        D385_TelefonRehberiUygulamasi()
+                        //D385_TelefonRehberiUygulamasi()
+                        //KartListesi()
 
-
-
-
-
-
-
-
+                        //DERS - 9
+                        D392_Scaffold()
+                        //D3393_AlertDialog()
+                        //D394_DropdownMenu()
 
                     }
                 }
